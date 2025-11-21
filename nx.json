@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "targetDefaults": {
+    "test": {
+      "cache": true
+    },
+    "start": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "node {projectRoot}/src/index.js"
+      }
+    }
+  }
+}

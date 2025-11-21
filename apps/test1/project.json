@@ -1,0 +1,10 @@
+{
+  "name": "test1",
+  "$schema": "../../node_modules/nx/schemas/nx-schema.json",
+  "root": "apps/test1",
+  "sourceRoot": "apps/test1/src",
+  "projectType": "application",
+  "targets": {
+    "start": {}
+  }
+}
