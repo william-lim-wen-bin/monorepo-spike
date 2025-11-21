@@ -12,5 +12,6 @@
   "packageManager": "pnpm@10.10.0",
   "devDependencies": {
     "nx": "22.0.3"
-  }
+  },
+  "nx": {}
 }
